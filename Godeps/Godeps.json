@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/joeygibson/godep-demo",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.11.4",
+			"Rev": "0208149b40d863d2c1a2f8fe5753096a9cf2cc8b"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "b776ec39b3e54652e09028aaaaac9757f4f8211a"
+		}
+	]
+}
